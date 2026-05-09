@@ -1,0 +1,11 @@
+id,lokasi,kondisi,akses_tol,kelas
+R1,Dekat,Baru,Ya,Mahal
+R2,Dekat,Baru,Ya,Murah
+R3,Dekat,Baru,Tidak,Mahal
+R4,Dekat,Lama,Ya,Mahal
+R5,Dekat,Lama,Tidak,Murah
+R6,Jauh,Baru,Ya,Mahal
+R7,Jauh,Baru,Tidak,Murah
+R8,Jauh,Lama,Ya,Murah
+R9,Jauh,Lama,Tidak,Murah
+R10,Jauh,Baru,Ya,Murah

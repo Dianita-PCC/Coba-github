@@ -1,0 +1,17 @@
+pandas = dataset agar rapi [Pengolahan Data]
+numpy = perhitungan otomatis
+seaborn = visualisasi
+matplotlib = visualisasi
+
+# Jupyter
+notebook
+
+isnull=nilai kosong
+FIGSIIZE [figure size]2 = UKURAN BINGKAI
+diskrititasi = tipe nilai numerik jadi kategorik
+sum=menjumlahkan
+univariet =termasuk describe, dan plot  bar 
+manalisis multivariet= untuk mengetahui keterkaitan 3 atribut 
+atau lebih
+scatterplot = digunakan untuk analisis bivariet
+

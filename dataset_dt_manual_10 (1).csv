@@ -1,0 +1,11 @@
+id,luas_tanah,luas_bangunan,jarak_kota,kelas
+R1,60,40,12,Murah
+R2,70,45,11,Murah
+R3,80,55,9,Murah
+R4,90,60,10,Murah
+R5,100,70,8,Murah
+R6,140,100,5,Mahal
+R7,150,110,4,Mahal
+R8,160,120,3,Mahal
+R9,170,130,2,Mahal
+R10,180,140,1,Mahal

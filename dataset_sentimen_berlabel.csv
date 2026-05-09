@@ -1,0 +1,239 @@
+clean_text,sentiment,label,score
+mbg bikin anak lebih fokus belajar karena perutnya kosong,positive,1,0.5909278392791748
+program mbg bantu orang tua apalagi penghasilannya pas pasan,positive,1,0.8520393967628479
+seneng lihat anak dapat menu sehat sekolah jajan terus,positive,1,0.5557680726051331
+menu mbg sekolahku lumayan variatif anak doyan sayur,positive,1,0.9978391528129578
+mbg bikin jam makan lebih tertib anak rewel,negative,0,0.48751556873321533
+sejak ada mbg anak lebih jarang beli minuman manis,positive,1,0.8510434627532959
+mbg bagus karena pemerataan gizi mampu,positive,1,0.9792783260345459
+mbg bikin anak lebih kuat ikut olahraga kegiatan sekolah,positive,1,0.6376943588256836
+kalau ada edukasi gizi bareng mbg dampaknya makin kerasa,positive,1,0.9881445169448853
+mbg bikin anak lebih semangat sekolah karena ada makan siang,positive,1,0.9638292789459229
+bagus kalau menu mbg disusun bareng ahli gizi seimbang,positive,1,0.9279171824455261
+mbg bikin anak gampang pusing karena telat makan,negative,0,0.9898173213005066
+dukung mbg karena investasi kesehatan jangka panjang,positive,1,0.7628412842750549
+kalau kebersihan dijaga mbg bermanfaat kesehatan,positive,1,0.9894647598266602
+mbg bikin suasana kelas lebih kondusif karena anak kenyang,positive,1,0.9868084788322449
+menu mbg ada buah keren jarang anak mau makan buah,negative,0,0.9525015950202942
+mbg solusi buat anak daerah akses gizinya kurang,negative,0,0.6635077595710754
+mbg bikin anak lebih jarang sakit semoga kualitasnya stabil,positive,1,0.936737596988678
+kalau mbg tepat waktu jadwal belajar lebih nyaman,positive,1,0.9902703762054443
+semoga mbg merata sampai sekolah kecil pelosok,positive,1,0.6829315423965454
+program mbg bikin orang tua lebih tenang soal kebutuhan gizi,positive,1,0.5901297330856323
+bagus kalau mbg ada evaluasi rutin makin tepat sasaran,positive,1,0.9860255122184753
+mbg langkah nyata tinggal pengawasan kualitas dijaga,negative,0,0.4797292947769165
+mbg bikin anak lebih jarang ngemil berlebihan,positive,1,0.6157534718513489
+program mbg bikin anak lebih ceria gampang lemas,negative,0,0.7073965072631836
+mbg bagus kalau porsinya pas lauknya cukup protein,positive,1,0.9969964027404785
+mbg bikin anak lebih fokus saat pelajaran panjang,positive,1,0.7365008592605591
+suka mbg karena anak kelaparan sekolah,negative,0,0.7852630615234375
+kalau mbg transparan kepercayaan publik pasti naik,positive,1,0.9900942444801331
+mbg bikin anak lebih mudah konsentrasi nilainya membaik,positive,1,0.9577983617782593
+mbg bagus pembentukan pola makan seimbang sejak dini,positive,1,0.9690434336662292
+program mbg bikin kebersamaan sekolah terasa makan bareng,positive,1,0.9242335557937622
+khawatir mbg proyek beneran fokus gizi,negative,0,0.9954485297203064
+tempatku mbg sering telat anak keburu selesai istirahat,negative,0,0.5729292631149292
+menu mbg kadang monoton akhirnya banyak dimakan,positive,1,0.6266340017318726
+kalau kebersihan kurang mbg bikin anak sakit perut,negative,0,0.9970018267631531
+ragu mbg merata biasanya pelosok ketinggalan,negative,0,0.9919018149375916
+kalau porsi kecil mbg formalitas anak tetap lapar,positive,1,0.5158098936080933
+distribusi jauh bikin makanan dingin rasanya enak,positive,1,0.997908353805542
+kalau vendor profesional kualitas makanan buruk,negative,0,0.9989515542984009
+mbg bikin antrean panjang ganggu jam belajar,negative,0,0.9676034450531006
+takut mbg pakai bahan murah hemat gizinya kurang,negative,0,0.9953913688659668
+tanpa audit rutin mbg rawan mark kecurangan,negative,0,0.9898983836174011
+beberapa sekolah lauknya minim kebanyakan karbo,positive,1,0.7016213536262512
+mbg perlu sop alergi kalau bahaya buat sebagian anak,negative,0,0.7294842004776001
+kalau penyimpanan buruk makanan mbg cepat basi,negative,0,0.9937363862991333
+mbg bikin sampah plastik meningkat kalau pakai kemasan sekali pakai,negative,0,0.8233715295791626
+program mbg bagus teori tapi sering kacau pelaksanaan,negative,0,0.9984186887741089
+dengar ada kasus makanan segar bikin khawatir,negative,0,0.8188614845275879
+mbg rawan tepat sasaran kalau data penerima rapi,negative,0,0.8256151080131531
+kalau petugas kurang guru keteteran ngurus pembagian mbg,negative,0,0.9897204041481018
+takutnya mbg bagus awal lama lama kualitas turun,negative,0,0.9978779554367065
+mbg bikin pemborosan kalau banyak makanan terbuang,negative,0,0.9850316047668457
+kalau menu sesuai selera lokal anak malas makan,negative,0,0.9885044693946838
+daerah terpencil logistik mbg masalah besar,negative,0,0.9648973345756531
+khawatir mbg menambah beban administrasi sekolah,negative,0,0.9252843856811523
+mbg berisiko bikin jam istirahat berantakan kalau pembagian tertib,negative,0,0.8485183715820312
+kalau makanan datang dingin anak nafsu makan,positive,1,0.9819155931472778
+mbg harusnya prioritas daerah stunting tinggi rata buta,negative,0,0.8373070955276489
+tanpa pengawasan ketat mbg lahan pungli,negative,0,0.9974150657653809
+kalau kualitas bahan turun mbg membantu kesehatan sekali,positive,1,0.570936918258667
+mbg jangan menutupi masalah lain seperti kemiskinan akses kesehatan,negative,0,0.7826394438743591
+mbg memicu kecemburuan kalau ada sekolah dapat kualitas beda,negative,0,0.7012138962745667
+ragu mbg konsisten setiap hari karena sistemnya rumit,negative,0,0.9933794736862183
+kalau menu terlalu berminyak manis bergizi,positive,1,0.9740428328514099
+mbg kadang datang mepet pulang akhirnya kemakan,negative,0,0.7085747122764587
+takutnya mbg ajang bagi bagi proyek pihak tertentu,negative,0,0.9693734645843506
+tanpa evaluasi rutin program mbg jalan tapi dampaknya kecil,negative,0,0.9883971810340881
+jujur sejak ada mbg anak minta jajan mulu,negative,0,0.9917840957641602
+kalau programnya rapi mbg ngebantu buat keluarga pas pasan,positive,1,0.9887009859085083
+mbg bikin lebih tenang minimal anak pasti makan sekali bener,positive,1,0.9380432963371277
+sekolah adik menunya lumayan enak katanya ada sayur,positive,1,0.9918407201766968
+mbg bikin anak lemes pas pelajaran siang,negative,0,0.8775883316993713
+bagus soalnya banyak anak kalau rumah makannya seadanya,negative,0,0.5461417436599731
+kalau standar gizinya dijaga game changer buat stunting,negative,0,0.6914774179458618
+suka idenya tinggal pengawasan asal asalan,negative,0,0.9607890844345093
+anak lebih fokus biasanya jam NUM ngeluh lapar,negative,0,0.8949589729309082
+tempatku pembagiannya cepat ganggu jam pelajaran,negative,0,0.9246340990066528
+semoga mbg heboh awal terus konsisten,positive,1,0.9317505359649658
+kalau menunya lokal lokal saja segar murah,positive,1,0.995879054069519
+seneng liat anak jajan minuman warna warni terus,positive,1,0.8680794835090637
+mbg bagus buat anak orang tuanya kerja pagi pagi sempat masak,positive,1,0.9457352161407471
+kalau ada buah tiap minggu wah mantap,positive,1,0.9978669285774231
+penting bersih tepat waktu sisanya tinggal evaluasi,positive,1,0.820997953414917
+mbg bikin sekolah terasa lebih peduli kesehatan siswa,positive,1,0.5895302891731262
+menurutku bentuk nyata perhatian generasi muda sekadar wacana,negative,0,0.8168275356292725
+kalau dilibatkan ahli gizi makin yakin kualitas menunya,positive,1,0.9889049530029297
+anak gampang masuk angin entah kebetulan efek makan teratur,negative,0,0.8798083066940308
+program bantu anak sering skip sarapan karena buru buru,negative,0,0.9653951525688171
+kalau porsinya disesuain umur kebanyakan kurang,negative,0,0.7774069309234619
+sekolah lihat anak anak lebih kompak makan bareng,positive,1,0.860042154788971
+harusnya semua sekolah dapet jangan kota,negative,0,0.9187791347503662
+kalau kualitas dijaga mbg worth,positive,1,0.9876508116722107
+seneng karena anak belajar makan sayur sedikit sedikit,negative,0,0.45712727308273315
+bagus kalau ada menu tinggi protein anak kuat,positive,1,0.9941755533218384
+programnya oke tinggal transparansi ada omongan macem macem,negative,0,0.6650561094284058
+mbg membantu buat anak jadwal sekolahnya panjang,negative,0,0.6007912755012512
+kalau sekolah disiplin pembagiannya bikin ribet,negative,0,0.9933602213859558
+anak biasanya susah makan lahap sekolah,negative,0,0.9817094206809998
+mbg bikin orang tua terlalu kepikiran bekal tiap hari,negative,0,0.9661229848861694
+semoga bahan makanannya fresh terus jangan asal murah,positive,1,0.9887170791625977
+kalau ada edukasi gizi sekalian makin mantap,positive,1,0.9972538352012634
+bagus kalau vendor lokal ikut dilibatkan ekonomi sekitar ikut bergerak,positive,1,0.9161804914474487
+sekolah tetangga katanya menunya lengkap ada lauk sayur,positive,1,0.8991127014160156
+kalau tepat sasaran dampaknya gede buat kesehatan anak,positive,1,0.9460899829864502
+anak jarang ngeluh pusing karena kelaperan,positive,1,0.7266063690185547
+menurut mbg ide bagus tinggal eksekusi konsisten,positive,1,0.9798849821090698
+takut mbg ujungnya proyek kualitas makanan ngedrop,negative,0,0.9989678859710693
+sekolah sepupu katanya sering telat dateng makanannya,negative,0,0.8261491060256958
+kalau diawasi ketat rawan disunat sunat anggarannya,negative,0,0.5115737318992615
+takutnya kebanyakan karbo proteinnya dikit sesuai nama bergizi,positive,1,0.9017565250396729
+bikin khawatir higienitas kalau ada apa apa anak kena,negative,0,0.9669097065925598
+kalau pembagiannya lama jam istirahat habis belajar keganggu,negative,0,0.9946920275688171
+daerah pelosok gimana akses saja susah jangan kota nikmatin,negative,0,0.9972124695777893
+kadang program bagus atas kertas pas jalan malah ribet,negative,0,0.9954848289489746
+skeptis soalnya pengadaan makanan sering ladang cuan,negative,0,0.7532845139503479
+kalau pakai kemasan sekali pakai terus sampahnya nambah parah,negative,0,0.9938212633132935
+takut anak punya alergi makanan tapi ada sop,negative,0,0.5155133605003357
+kalau porsinya kecil anak tetap lapar jadinya percuma,negative,0,0.9942334294319153
+pernah denger kasus makanan segar serem,negative,0,0.8176212310791016
+jangan sampai mbg malah ngurangin anggaran buku perbaikan kelas,negative,0,0.8425502181053162
+kalau vendor dipilih asal kualitasnya kacau,negative,0,0.9990641474723816
+beberapa tempat katanya menunya anak bosen,negative,0,0.9889369010925293
+kalau sistem distribusinya rapi makanan dingin enak,positive,1,0.9988511800765991
+takut mbg kenceng pas awal lama lama formalitas,negative,0,0.9976179003715515
+kalau dapur pengelola bersih risiko keracunan tinggi,negative,0,0.700790524482727
+data penerima harus jelas jangan sampai butuh malah kelewat,negative,0,0.7293744087219238
+lihat antreannya panjang kasian anak kecil,negative,0,0.998767614364624
+kalau ada audit rutin siap siap banyak cerita miring,negative,0,0.995333731174469
+guru jangan dibebanin ngurus ginian kalau sdm kurang,negative,0,0.9957842230796814
+harusnya fokus dulu daerah stunting tinggi jangan semua digebyah uyah,negative,0,0.9781010150909424
+kalau makanannya kebanyakan minyak gula sehat,negative,0,0.5427095890045166
+takutnya kualitas beda beda tiap sekolah satu bagus lain parah,negative,0,0.9981701374053955
+kalau ada mekanisme komplain orang tua bingung lapor mana,negative,0,0.8553720712661743
+jujur ragu konsisten tiap hari logistiknya berat,negative,0,0.9971057772636414
+tempatku katanya porsinya sesuai ada kebagian dikit,positive,1,0.9142178297042847
+kalau memperhatikan selera lokal banyak makanan sisa,positive,1,0.7960641384124756
+kalau penyimpanan ada makanan cepat basi bahaya,negative,0,0.9941948056221008
+mbg bikin pemborosan kalau banyak dibuang,negative,0,0.9954028129577637
+jangan sampai ada pungutan pungutan aneh atas nama program,negative,0,0.9016674160957336
+lebih percaya kalau ada laporan kualitas gizi dicek publik,negative,0,0.8285519480705261
+kalau ada kontrol mutu harian gampang kecolongan,negative,0,0.9880453944206238
+program bagus tapi seringnya eksekusi lapangan bikin pusing,negative,0,0.9943243265151978
+takut anak kebiasaan makan instan kalau menunya bener,negative,0,0.9838100671768188
+kalau kota saja masih kacau apalagi daerah jauh,negative,0,0.9966933727264404
+kalau bagi nasi tanpa nutrisi jelas solusi,negative,0,0.8858031630516052
+khawatir bikin jam belajar kepotong kalau manajemennya buruk,negative,0,0.9990755319595337
+kalau transparan publik pasti curiga terus,negative,0,0.9910023808479309
+menurut mbg bagus idenya tapi rawan bancakan kalau lemah pengawasan,negative,0,0.9534968733787537
+kalau menunya variatif anak bakal males akhirnya mubazir,negative,0,0.9850412011146545
+masih nunggu bukti jangan hype,negative,0,0.773968517780304
+finally ada program beneran nyentuh perut anak sekolah omdo,negative,0,0.5602411031723022
+gila kalau mbg jalan bener ngebantu buat keluarga ngos ngosan tiap bulan,positive,1,0.9333375096321106
+anjir lega minimal anak belajar sambil nahan lapar,negative,0,0.5368887186050415
+ampun anak cranky pas siang ternyata emang selama kurang makan,negative,0,0.9973412156105042
+kalau menunya dijaga mbg ngubah nasib kesehatan anak anak serius,negative,0,0.9738353490829468
+respect akhirnya ada fokus gizi nilai,negative,0,0.48454299569129944
+anak biasanya jajan sembarangan sekarang mending makan bener dulu,negative,0,0.9898408055305481
+mbg bikin mikir hal basic makan baru digarap serius sekarang,negative,0,0.7970111966133118
+programnya keren kalau beneran rapi jangan setengah setengah,positive,1,0.9933670163154602
+sekolah adik menunya lengkap sampai kaget ada sayur beneran,positive,1,0.9283633828163147
+akhirnya anak anak makan bareng bener jajanan pedes manis,positive,1,0.982174813747406
+seneng kalau mbg bikin anak doyan sayur walau dikit dikit,positive,1,0.9861118793487549
+mbg bikin anak drama lapar pas ulangan lebih fokus,negative,0,0.8154652714729309
+jujur terharu karena ada anak rumah mungkin makannya tentu,positive,1,0.9699563980102539
+program kalau dijalankan niat dampaknya gede,positive,1,0.9675536751747131
+anak lebih kuat ikut olahraga biasanya gampang capek,negative,0,0.8473881483078003
+kalau hygiene dijaga win win sehat hemat jajan,positive,1,0.9879255294799805
+bagus kalau vendor lokal dilibatin duitnya muter sekitar,positive,1,0.7232102155685425
+mbg bikin terlalu panik soal uang jajan anak tiap hari,negative,0,0.9477765560150146
+penting kontrol kualitas jangan lepas soalnya menyangkut anak anak,negative,0,0.9162297248840332
+programnya bikin sekolah terasa lebih manusiawi serius,positive,1,0.97981196641922
+anak picky eater tapi kalau temennya makan ikut keren efeknya,negative,0,0.8589048981666565
+mbg bikin lebih tenang minimal ada satu makan jelas,positive,1,0.8243142366409302
+kalau dibuat transparan orang gampang curiga,negative,0,0.9893585443496704
+kalau porsi pas anak kelaperan sampai pulang saja bagus,positive,1,0.9876656532287598
+mbg bikin anak ngincer gorengan tiap istirahat lumayan,positive,1,0.5587144494056702
+semoga menu protein pelit anak beneran tumbuh,positive,1,0.9332742691040039
+kalau sistemnya rapi pembagian cepat ganggu pelajaran sekali,negative,0,0.9981796741485596
+mbg bikin anak lebih mood rumah rewel,negative,0,0.4536701440811157
+program bikin bilang oke ada gunanya,negative,0,0.7623623013496399
+semoga musiman jangan kenceng pas awal terus hilang,negative,0,0.9455152750015259
+kalau ada buah minimal seminggu sekali keren,positive,1,0.9873455166816711
+jangan dihina dulu penting jalan diperbaiki terus,negative,0,0.9558255672454834
+kalau ada evaluasi rutin mbg makin bagus waktu waktu,positive,1,0.9932670593261719
+anak anak butuh makan bener disuruh semangat belajar,negative,0,0.8042212128639221
+ngeremehin mbg kayaknya lupa kalau banyak anak makan saja susah,negative,0,0.9954231381416321
+dukung mbg tapi harus dijaga diselewengin,negative,0,0.8526982069015503
+mbg basic tapi dampaknya gede kesehatan anak fondasi,positive,1,0.4626680314540863
+jujur pengen program sukses soalnya manfaatnya nyata,positive,1,0.9667088389396667
+maaf curiga mbg bakal ladang cuan soalnya pola lama mulu,negative,0,0.9983493089675903
+ngomongnya bergizi tapi kalau ujungnya nasi lauk tipis ngaco,negative,0,0.9682935476303101
+kalau pengawasan lemah siap siap saja kualitasnya jatuh bebas,negative,0,0.9979057312011719
+kesel kalau program bagus malah dibikin bancakan,negative,0,0.9987554550170898
+tempat makanannya dateng telat mulu gimana anak mau makan,negative,0,0.9981387853622437
+anjir antreannya panjang jam istirahat habis anak malah capek,negative,0,0.9986369013786316
+kalau kebersihan asal asalan jangan kaget kalau ada sakit perut,negative,0,0.9936118721961975
+jangan sampai mbg ajang pencitraan habis ditinggal,negative,0,0.9985548853874207
+transparansi anggaran mana kalau dibuka wajar orang curiga,negative,0,0.622205376625061
+mbg katanya semua tapi pelosok seringnya kebagian belakangan,negative,0,0.6040743589401245
+muak kalau vendor dipilih karena deket karena kualitas,negative,0,0.8845114707946777
+kalau pakai kemasan sekali pakai terus sampahnya numpuk mikir apa,negative,0,0.9959248304367065
+menu monoton bikin anak ogah ujungnya mubazir,negative,0,0.9772509932518005
+punya alergi gimana jangan sok jalan kalau sop saja jelas,negative,0,0.9752380847930908
+kalau porsinya kecil bantu bikin emosi,positive,1,0.860844075679779
+mbg bagus presentasi tapi lapangan sering berantakan klasik,negative,0,0.9853641390800476
+takut nyedot anggaran sementara kelas bocor toilet rusak dibiarkan,negative,0,0.996448278427124
+kalau makanannya dingin layak mending jangan dipaksa,positive,1,0.8451882004737854
+serem kalau dapur pengelola steril anak anak korban,negative,0,0.9784595966339111
+jangan bikin guru tukang bagi bagi makanan kebanyakan beban,negative,0,0.9972344040870667
+kalau data penerima kacau butuh kebagian parah,negative,0,0.994453489780426
+stop gaya gayaan kalau gizinya jelas bagi nasi,positive,1,0.9899824261665344
+kalau auditnya formalitas siap siap saja ada drama,negative,0,0.9948934316635132
+skeptis program besar rawan disunat,negative,0,0.8437948226928711
+kalau lauknya pelit jangan pakai label bergizi,negative,0,0.9460179805755615
+daerah jauh distribusi ribet kalau siap jangan maksa,negative,0,0.9873669147491455
+anak ngantri lama bikin jam belajar kepotong terus siapa tanggung jawab,negative,0,0.9987964630126953
+kadang menunya kebanyakan minyak gula sehat,positive,1,0.674584686756134
+kalau komplain susah orang tua ngomel medsos,negative,0,0.997967541217804
+mbg jangan alasan buat nutupin masalah kemiskinan lebih besar,negative,0,0.9947618842124939
+liat banyak program heboh awal abis ambyar,negative,0,0.8182047009468079
+kalau pengadaan dibuka gimana publik mau percaya,negative,0,0.9431657791137695
+takutnya ajang bagi proyek urus anak,negative,0,0.9508949518203735
+kalau makanan segar mending jangan dibagiin bahaya,positive,1,0.6208617091178894
+mbg bikin chaos kalau manajemennya jelek anak malah stres,negative,0,0.9988697171211243
+kalau vendor niat anak tester gratisan ngeri,negative,0,0.998284637928009
+kesel kalau semuanya serba penting jalan tapi mutu nol,negative,0,0.9991468191146851
+kalau ada kontrol mutu harian programnya gampang kecolongan,negative,0,0.9859827160835266
+jangan bilang bergizi buktinya mana kandungan gizinya dicek,negative,0,0.9864445328712463
+kalau datangnya mepet pulang namanya asal asalan,negative,0,0.9979681372642517
+mbg bikin pemborosan kalau banyak kebuang terus siapa mikirin,negative,0,0.9980719089508057
+kalau ngikutin selera lokal jelas banyak sisa efektif,positive,1,0.9913721084594727
+takut ada pungutan liar buat operasional sering kejadian,negative,0,0.9093159437179565
+harusnya mulai paling butuh dibagi rata keliatan merata,positive,1,0.9511944055557251
+kalau penyimpanan ada makanan basi tinggal nunggu waktu,negative,0,0.9184449911117554
+program sensitif sekali ada kasus keracunan trust langsung hancur,negative,0,0.9979939460754395
+pengen percaya tapi pengalaman bikin susah optimis,negative,0,0.9709154963493347
+kalau ngejar laporan dampaknya kecil penting mutu konsistensi,negative,0,0.537242591381073
